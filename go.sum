@@ -2,5 +2,7 @@ github.com/travisjeffery/gomodlib v0.0.0-20190208085931-4eb83f17895c h1:p/vz/Fue
 github.com/travisjeffery/gomodlib v0.0.0-20190208085931-4eb83f17895c/go.mod h1:91U3sUIvts7/v3wzO+YYq5k6mB3eOE7eOu7L1rQvdeo=
 github.com/travisjeffery/gomodlib/subpkga v0.0.0-20190208085931-4eb83f17895c h1:W1ImleLEDBv9BLpbzlYR68Qxe+Z/XPKi+j89BjSds5k=
 github.com/travisjeffery/gomodlib/subpkga v0.0.0-20190208085931-4eb83f17895c/go.mod h1:pK6da1QBp+/I+Kt2fU3xGfPq6jLRKG1Zt9Aexu+LBTc=
+github.com/travisjeffery/gomodlib/subpkga v0.0.0-20190208090204-d8f7841ac5e3 h1:7HUL6bgswn4JvK1bfV6tLYLsAMZuHcGuaqA0tb1C3s4=
+github.com/travisjeffery/gomodlib/subpkga v0.0.0-20190208090204-d8f7841ac5e3/go.mod h1:pK6da1QBp+/I+Kt2fU3xGfPq6jLRKG1Zt9Aexu+LBTc=
 github.com/travisjeffery/gomodlib/subpkgb v0.0.0-20190208085931-4eb83f17895c h1:yVr1Pc2ke0le0Xmovuz4bPMcGuqf7CzY/Hm9tujKTBU=
 github.com/travisjeffery/gomodlib/subpkgb v0.0.0-20190208085931-4eb83f17895c/go.mod h1:w1EDFBKalg/8TyAW2O7hVEkq5cKo6ZW4GDkH3wJNYSo=
